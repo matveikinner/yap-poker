@@ -1,0 +1,8 @@
+{
+  "short_name": "YAP Poker",
+  "name": "Yet Another Planning Poker",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
