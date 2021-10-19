@@ -8,11 +8,11 @@
 
 To launch application with Webpack run
 
-    npm run start:dev
+    yarn start:dev
 
 To build application with Webpack run
 
-    npm run build:dev
+    yarn build:dev
 
 ## Documentation
 
