@@ -30,6 +30,7 @@ const webpackConfig = (): Configuration => ({
     extensions: [".js", ".jsx", ".ts", ".tsx"],
     alias: {
       "@core": path.resolve(rootDir, "core"),
+      "@session": path.resolve(rootDir, "session"),
     },
   },
   output: {
